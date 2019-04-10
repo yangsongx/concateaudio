@@ -6,6 +6,7 @@ for gaorong
 need ffmpeg, lame
 
 # run
+src3/ is a workable version
 
 running under virtualenv
 
